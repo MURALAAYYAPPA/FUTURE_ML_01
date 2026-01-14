@@ -1,4 +1,4 @@
-AI-Powered Sales Forecasting Dashboard
+AI-POWERED SALES FORECASTING DASHBOARD
 
 Machine Learning Task 1 | Future Interns
 
@@ -177,3 +177,8 @@ Demonstrated practical application of machine learning in business analytics
 🗣 Internship / Interview Explanation (Professional)
 
 “I developed an AI-powered sales forecasting dashboard using Facebook Prophet to predict future retail sales. The model captures trends and seasonality, and the results are visualized in Power BI through an interactive dashboard. This solution helps businesses make data-driven decisions for inventory planning, demand forecasting, and sales strategy.”
+
+OUTPUT : AI-POWERED SALES FORECASTING DASHBOARD
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5a694730-6ff1-4606-8fce-31c8428da71e" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d518990b-a126-4909-9464-431b6431c418" />
